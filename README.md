@@ -58,7 +58,8 @@ FIGURE-02
 
 FIGURE -03
 
-![image]("E:\Robotics\exp 1 images\DG.png")
+![DG](https://github.com/saran7d/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/104412179/dce371bf-4d6f-453d-bb3f-cf2226c6590e)
+
 
 
 
@@ -111,10 +112,12 @@ void loop()
 
 ## ON:
 
-![image]("E:\Robotics\exp 1 images\ON.png")
+![ON](https://github.com/saran7d/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/104412179/2f9ba240-1c99-4e22-823e-37bb13ef14cd)
+
 
 
 ## OFF:
 
-![image]("E:\Robotics\exp 1 images\OFF.png")
+![OFF](https://github.com/saran7d/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/104412179/71f2dde3-6a28-4179-93d1-c8bea3895a23)
+
 
