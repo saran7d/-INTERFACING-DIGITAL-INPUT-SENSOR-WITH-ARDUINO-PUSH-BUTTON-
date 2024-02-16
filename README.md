@@ -58,7 +58,7 @@ FIGURE-02
 
 FIGURE -03
 
-![]("E:\Robotics\exp 1 images\DG.png")
+![image]("E:\Robotics\exp 1 images\DG.png")
 
 
 
@@ -111,10 +111,10 @@ void loop()
 
 ## ON:
 
-![My image]("E:\Robotics\exp 1 images\ON.png")
+![image]("E:\Robotics\exp 1 images\ON.png")
 
 
 ## OFF:
 
-![]("E:\Robotics\exp 1 images\OFF.png")
+![image]("E:\Robotics\exp 1 images\OFF.png")
 
